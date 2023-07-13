@@ -64,9 +64,6 @@
     font-style: normal;
 }
 
-contact {
-    left: auto;
-}
 
 img map {
     right: auto;
@@ -83,4 +80,8 @@ img map {
     width: 1440px;
     height: 161px;
     top: 1369px;
+}
+
+.contact {
+    text-align: left;
 }
