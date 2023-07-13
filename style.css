@@ -1,0 +1,26 @@
+body {
+    background-color: white;
+    width: 1440px;
+    height: 1530px;
+    top: -513px;
+    left: -720px;
+}
+
+
+.footer {
+    width: 1440px;
+    height: 161px;
+    top: 1369px;
+
+    background: #19126B;
+
+}
+
+.copyright {
+
+    width: 282px;
+    height: 19px;
+    top: 1440px;
+    left: 1028px;
+
+}
