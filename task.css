@@ -113,16 +113,7 @@ footer .copyright {
     color: #19126B;
 }
 
-.h1111 {
-    color: #19126B;
-    font-family: Inter;
-    font-size: 36px;
-    font-weight: 400;
-    line-height: 44px;
-    letter-spacing: 0em;
-    text-align: left;
 
-}
 
 .redcsr {
 
@@ -180,4 +171,43 @@ footer .copyright {
     color:
         linear-gradient(0deg, #0D69A9, #0D69A9);
 
+}
+
+.div001 {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1180px;
+    margin: 0 auto;
+    background: #EBEBF0;
+    width: 1440px;
+    height: 516px;
+    top: 1002px;
+    padding: 73px 130px 72px 130px;
+
+}
+
+
+.continfo {
+
+
+    display: flex;
+    background: #EBEBF0;
+    width: 1440px;
+    height: 546px;
+    top: 906px;
+    padding: 99px 130px 94px 130px;
+}
+
+.dipo {
+    padding: 140px 130px 94px 130px;
+}
+
+.diano {
+    padding: 200px 130px 94px 130px;
+}
+
+.h1111 {
+    padding: 200px 130px 94px 130px;
 }
