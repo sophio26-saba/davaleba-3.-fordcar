@@ -1,0 +1,183 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul,
+ol {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1180px;
+    margin: 0 auto;
+}
+
+header ul {
+    display: flex;
+}
+
+header .middle-link {
+    margin: 0 121px;
+}
+
+header a {
+    font-size: 20px;
+}
+
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 161px;
+    background-color: #19126B;
+    padding: 0 130px;
+}
+
+footer ul {
+    display: flex;
+}
+
+footer li {
+    margin: 0 20px;
+}
+
+footer .copyright {
+    color: white;
+}
+
+.cars {
+    height: 439px;
+    background-color: #EBEBF0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cars .middle {
+    margin: 0 20px;
+}
+
+.h111 {
+    color: #090346;
+}
+
+.paragraph1 {
+
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #090346;
+
+}
+
+.h11 {
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #19126B;
+
+}
+
+.paragraph2 {
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #090346;
+
+}
+
+.outhst {
+    height: 439px;
+    background-color: #EBEBF0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #19126B;
+}
+
+.h1111 {
+    color: #19126B;
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.redcsr {
+
+    display: flex;
+    width: 566px;
+    height: 371px;
+    top: 73px;
+    left: 744px;
+
+}
+
+.blueford {
+    width: 1440px;
+    height: 478px;
+    top: 96px;
+}
+
+.ctus {
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #19126B;
+
+
+
+}
+
+.blp {
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #090346;
+
+}
+
+.title {
+    font-family: BPG Nino Mtavruli;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.color-aqua {
+
+    color:
+        linear-gradient(0deg, #0D69A9, #0D69A9);
+
+}
